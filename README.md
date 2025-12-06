@@ -71,9 +71,7 @@ digital-learning-analysis/
 │   └── Marks.csv                  # Dataset
 │
 ├── code/
-│   ├── hypothesis_test_v1.py      # Version 1: Distribution focus
-│   ├── hypothesis_test_v2.py      # Version 2: Inference focus
-│   └── hypothesis_test_v3.py      # Version 3: Comparative focus
+│   ├── Hypothesis Testing.ipynb     
 │
 ├── output/
 │   ├── analysis_v1.png
@@ -84,7 +82,6 @@ digital-learning-analysis/
 │   ├── Technical_Report.pdf
 │   ├── Presentation.pdf
 │
-├── requirements.txt
 ├── README.md
 └── LICENSE
 ```
