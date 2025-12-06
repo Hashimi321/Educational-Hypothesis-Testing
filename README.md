@@ -8,8 +8,6 @@ A statistical analysis project investigating the effectiveness of digital learni
 - [Dataset](#dataset)
 - [Methodology](#methodology)
 - [Results](#results)
-- [Installation](#installation)
-- [Usage](#usage)
 - [Project Structure](#project-structure)
 - [Dependencies](#dependencies)
 - [Contributors](#contributors)
@@ -63,37 +61,6 @@ This project examines whether digital learning tools significantly improve mathe
 
 **Conclusion:** ✅ Reject H₀ - Digital learning significantly improves math scores
 
-## 🚀 Installation
-
-```bash
-# Clone the repository
-git clone https://github.com/yourusername/digital-learning-analysis.git
-cd digital-learning-analysis
-
-# Install dependencies
-pip install -r requirements.txt
-```
-
-## 💻 Usage
-
-### Option 1: Run Analysis (Recommended Version)
-```bash
-python hypothesis_test_v1.py  # Distribution-focused visualizations
-# OR
-python hypothesis_test_v2.py  # Statistical inference visualizations
-# OR
-python hypothesis_test_v3.py  # Comparative analysis visualizations
-```
-
-### Option 2: Jupyter Notebook
-```bash
-jupyter notebook Hypothesis_Testing.ipynb
-```
-
-### Output
-- Console output with complete statistical analysis
-- High-resolution visualization (PNG format)
-- Saved to current directory
 
 ## 📁 Project Structure
 
@@ -116,7 +83,6 @@ digital-learning-analysis/
 ├── docs/
 │   ├── Technical_Report.pdf
 │   ├── Presentation.pdf
-│   └── Cheatsheet.pdf
 │
 ├── requirements.txt
 ├── README.md
@@ -143,9 +109,6 @@ seaborn >= 0.11.0
 **Institution:** Information Technology University (ITU)  
 **Instructor:** Muhammad Ali Murtaza
 
-## 📝 License
-
-This project is licensed under the MIT License - see the [LICENSE](LICENSE) file for details.
 
 ## 🙏 Acknowledgments
 
@@ -157,7 +120,8 @@ This project is licensed under the MIT License - see the [LICENSE](LICENSE) file
 
 For questions or feedback, please open an issue or contact:
 - Email: msds25044@itu.edu.pk
-
+-Email: msds25048@itu.edu.pk
+-Email: msds25066@itu.edu.pk
 ---
 
-**⭐ Star this repository if you find it helpful!**
+
