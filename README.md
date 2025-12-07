@@ -2,7 +2,7 @@
 
 A statistical analysis project investigating the effectiveness of digital learning platforms on Grade 9 mathematics achievement using hypothesis testing.
 
-## 📋 Table of Contents
+##  Table of Contents
 - Overview
 - Research Question
 - Dataset
@@ -18,11 +18,11 @@ This project examines whether digital learning tools significantly improve mathe
 
 **Key Findings:** Digital learning students scored **6.80 points higher** on average (p < 0.0001, Cohen's d = 1.15), representing a large and statistically significant effect.
 
-## ❓ Research Question
+##  Research Question
 
 **Does digital learning result in significantly higher mathematics scores compared to traditional classroom methods for Grade 9 students?**
 
-## 📊 Dataset
+##  Dataset
 
 - **Total Students:** 60
 - **Digital Learning Group:** 30 students
@@ -30,7 +30,7 @@ This project examines whether digital learning tools significantly improve mathe
 - **Variables:** Student ID, Group, Math Score, Gender, Attendance (%)
 - **File:** `Marks.csv`
 
-## 🔬 Methodology
+##  Methodology
 
 ### Statistical Test
 **Independent Samples t-Test** (One-tailed)
@@ -41,11 +41,11 @@ This project examines whether digital learning tools significantly improve mathe
 - **Significance Level:** α = 0.05
 
 ### Assumptions Checked
-1. ✅ Independence of observations
-2. ✅ Normality (Shapiro-Wilk test)
-3. ✅ Homogeneity of variance (Levene's test)
+1. Independence of observations
+2.  Normality (Shapiro-Wilk test)
+3. Homogeneity of variance (Levene's test)
 
-## 📈 Results
+## Results
 
 | Metric | Digital Group | Conventional Group |
 |--------|---------------|-------------------|
@@ -59,10 +59,10 @@ This project examines whether digital learning tools significantly improve mathe
 - Cohen's d: 1.1484 (Large effect)
 - 95% CI: [3.80, 9.80]
 
-**Conclusion:** ✅ Reject H₀ - Digital learning significantly improves math scores
+**Conclusion:** Reject H₀ - Digital learning significantly improves math scores
 
 
-## 📁 Project Structure
+##  Project Structure
 
 ```
 digital-learning-analysis/
@@ -86,7 +86,7 @@ digital-learning-analysis/
 └── LICENSE
 ```
 
-## 📦 Dependencies
+## Dependencies
 
 ```
 pandas >= 1.3.0
@@ -96,7 +96,7 @@ matplotlib >= 3.4.0
 seaborn >= 0.11.0
 ```
 
-## 👥 Contributors
+## Contributors
 
 - **Usama Umer** - MSDS25044
 - **Muhammad Ahmed** - MSDS25048
@@ -107,13 +107,13 @@ seaborn >= 0.11.0
 **Instructor:** Muhammad Ali Murtaza
 
 
-## 🙏 Acknowledgments
+## Acknowledgments
 
 - ITU Faculty for guidance and support
 - Course instructor for valuable feedback
 - Open-source community for excellent libraries
 
-## 📧 Contact
+## Contact
 
 For questions or feedback, please open an issue or contact:
 - Email: msds25044@itu.edu.pk
