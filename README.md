@@ -55,7 +55,7 @@ This project examines whether digital learning tools significantly improve mathe
 
 **Test Statistics:**
 - t-statistic: 4.4479
-- p-value: < 0.0001 ⭐
+- p-value: < 0.0001 
 - Cohen's d: 1.1484 (Large effect)
 - 95% CI: [3.80, 9.80]
 
