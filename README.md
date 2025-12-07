@@ -1,10 +1,10 @@
-# Impact of Digital Learning on Mathematics Achievement 📊
+# Impact of Digital Learning on Mathematics Achievement 
 
 A statistical analysis project investigating the effectiveness of digital learning platforms on Grade 9 mathematics achievement using hypothesis testing.
 
 ## 📋 Table of Contents
-- [Overview](#overview)
-- [Research Question](#research-question)
+- [Overview]
+- [Research Question]
 - [Dataset](#dataset)
 - [Methodology](#methodology)
 - [Results](#results)
