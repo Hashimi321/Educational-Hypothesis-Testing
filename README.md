@@ -5,14 +5,14 @@ A statistical analysis project investigating the effectiveness of digital learni
 ## 📋 Table of Contents
 - [Overview]
 - [Research Question]
-- [Dataset](#dataset)
-- [Methodology](#methodology)
-- [Results](#results)
-- [Project Structure](#project-structure)
-- [Dependencies](#dependencies)
-- [Contributors](#contributors)
+- [Dataset]
+- [Methodology]
+- [Result]
+- [Project Structure]
+- [Dependencies]
+- [Contributors]
 
-## 🎯 Overview
+##  Overview
 
 This project examines whether digital learning tools significantly improve mathematics test scores compared to traditional classroom instruction. The analysis employs independent samples t-test to compare achievement between two groups of Grade 9 students.
 
