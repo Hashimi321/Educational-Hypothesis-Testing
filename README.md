@@ -3,14 +3,14 @@
 A statistical analysis project investigating the effectiveness of digital learning platforms on Grade 9 mathematics achievement using hypothesis testing.
 
 ## 📋 Table of Contents
-- [Overview]
-- [Research Question]
-- [Dataset]
-- [Methodology]
-- [Result]
-- [Project Structure]
-- [Dependencies]
-- [Contributors]
+- Overview
+- Research Question
+- Dataset
+- Methodology
+- Result
+- Project Structure
+- Dependencies
+- Contributors
 
 ##  Overview
 
